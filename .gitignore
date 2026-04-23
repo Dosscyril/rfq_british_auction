@@ -1,0 +1,8 @@
+# Backend
+rfq-backend/node_modules
+rfq-backend/.env
+
+# Frontend
+rfq-frontend/node_modules
+rfq-frontend/.env
+rfq-frontend/build
